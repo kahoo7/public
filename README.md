@@ -1,2 +1,2 @@
-# public
- 现在可以公开的情报
+# Little Rookie begin to use github
+ The very first time to use this platform.I would like to get some advice for my products.
