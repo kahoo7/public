@@ -1,8 +1,12 @@
 # Alien Invasion
-Project:Alien Invasion
-Version:1.0
 
-Description:
+Project: Alien Invasion
+
+
+Version: 1.0
+
+
+Description: 
 
 This is a project using pygame module and basic python knowledge.
 It takes me a month to finish because of the illness in Wuhan, China.
